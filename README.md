@@ -1,6 +1,6 @@
 # Google Books Search
 
-Heroku URL: https://thawing-mountain-97618.herokuapp.com/saved
+Heroku URL: https://thawing-mountain-97618.herokuapp.com
 
 ### Overview
 
